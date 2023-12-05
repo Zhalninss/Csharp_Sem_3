@@ -1,0 +1,15 @@
+C:\education\C##\C#NEWSEM\3\obj\Debug\net6.0\3.csproj.AssemblyReference.cache
+C:\education\C##\C#NEWSEM\3\obj\Debug\net6.0\3.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\C##\C#NEWSEM\3\obj\Debug\net6.0\3.AssemblyInfoInputs.cache
+C:\education\C##\C#NEWSEM\3\obj\Debug\net6.0\3.AssemblyInfo.cs
+C:\education\C##\C#NEWSEM\3\obj\Debug\net6.0\3.csproj.CoreCompileInputs.cache
+C:\education\C##\C#NEWSEM\3\bin\Debug\net6.0\3.exe
+C:\education\C##\C#NEWSEM\3\bin\Debug\net6.0\3.deps.json
+C:\education\C##\C#NEWSEM\3\bin\Debug\net6.0\3.runtimeconfig.json
+C:\education\C##\C#NEWSEM\3\bin\Debug\net6.0\3.dll
+C:\education\C##\C#NEWSEM\3\bin\Debug\net6.0\3.pdb
+C:\education\C##\C#NEWSEM\3\obj\Debug\net6.0\3.dll
+C:\education\C##\C#NEWSEM\3\obj\Debug\net6.0\refint\3.dll
+C:\education\C##\C#NEWSEM\3\obj\Debug\net6.0\3.pdb
+C:\education\C##\C#NEWSEM\3\obj\Debug\net6.0\3.genruntimeconfig.cache
+C:\education\C##\C#NEWSEM\3\obj\Debug\net6.0\ref\3.dll
